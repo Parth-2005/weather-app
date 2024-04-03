@@ -38,6 +38,14 @@ class _currentWeatherState extends State<currentWeather> {
   void didChangeDependencies() async {
     super.didChangeDependencies();
     prefs = await SharedPreferences.getInstance();
+    if (widget.city != null) {
+      if (widget.city!.latitude != null && widget.city!.longitude != null) {
+        weather = ApiServices()
+            .getCurrentWeather(widget.city!.latitude, widget.city!.longitude);
+      }
+    } else {
+      weather = ApiServices().getCurrentWeather(null, null);
+    }
   }
 
   @override

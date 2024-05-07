@@ -37,7 +37,7 @@ Welcome to WeatherApp! This Flutter-based application provides users with real-t
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request. Please adhere to the Flutter and Dart style guidelines.
 
 ## Credits
-WeatherApp is developed by [Your Name]. This project utilizes various open-source libraries and APIs for weather data.
+WeatherApp is developed by [Parth Panot](https://www.linkedin.com/in/parth-panot-005b01245/). This project utilizes various open-source libraries and APIs for weather data.
 
 - Flutter: https://flutter.dev/
 - OpenWeatherMap API: https://openweathermap.org/api
@@ -46,6 +46,6 @@ WeatherApp is developed by [Your Name]. This project utilizes various open-sourc
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code according to the terms of the license.
 
 ## Contact
-For any inquiries or support, you can reach out to [pjpanot260305@gmail.com] or create an issue in the GitHub repository.
+For any inquiries or support, you can reach out to pjpanot260305@gmail.com or create an issue in the GitHub repository.
 
 Thank you for using WeatherApp! We hope you find it helpful in planning your day.

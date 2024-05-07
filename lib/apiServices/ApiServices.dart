@@ -10,7 +10,7 @@ class ApiServices {
   // https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key} //currentWeather
   // api.openweathermap.org/data/2.5/forecast/daily?lat={lat}&lon={lon}&cnt={cnt}&appid={API key} // 15 day daily forecast
 
-  final String API_KEY = "ac24b913d68baa74fa58761fcead0838";
+  final String API_KEY = "YOUR-API-KEY";
   Future<Map<String, double>?> determinePosition() async {
     bool serviceEnabled;
     LocationPermission permission;

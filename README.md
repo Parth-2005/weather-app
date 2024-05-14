@@ -12,7 +12,7 @@ Welcome to WeatherApp! This Flutter-based application provides users with real-t
 ## Installation
 1. **Clone the Repository**: Clone this repository to your local machine.
    ```
-   git clone https://github.com/Parth-2005/weather-app
+   git clone https://github.com/Parth-2005/weather-app.git
    ```
 
 2. **Flutter Installation**: Ensure you have Flutter installed on your machine. If not, follow the [Flutter installation guide](https://flutter.dev/docs/get-started/install).
